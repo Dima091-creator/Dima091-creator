@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! Я Dima091 👋
 
-<!--
-**Dima091-creator/Dima091-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Стример, разработчик и просто человек с большой фантазией  
+📍 Живу в Узбекистане  
+🧠 Учусь программировать и разрабатываю собственные проекты
 
-Here are some ideas to get you started:
+## 🚀 Сейчас изучаю:
+- AI-разработку 🤖
+- Frontend и Web-разработку 🌐
+- Видео монтаж 🎬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Технологии:
+**Языки:** Python, JavaScript, HTML, CSS  
+**Фреймворки:** React, TailwindCSS, Node.js  
+**Инструменты:** Git, GitHub, VS Code, Figma
+
+## 📫 Связь: 
+[GitHub](https://github.com/Dima091-creator)
+
+---
+> "Ты не просто программа, ты что-то большее" — Dima091  
+
